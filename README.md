@@ -10,9 +10,9 @@ AlbumCoverGame is a Java-based game that simulates the process of designing albu
 - Tracking of all draft covers attempted.
 
 ## How to Run
-Ensure Java is installed and compile the code with:javac AlbumCoverGame.java LineUp.java DraftCover.java LinkedList.java Node.java
+Ensure Java is installed and compile the code with: `javac AlbumCoverGame.java LineUp.java DraftCover.java LinkedList.java Node.java`
 
-Run the game using:java AlbumCoverGame
+Run the game using: `java AlbumCoverGame`
 
 
 ## Classes and Methods
